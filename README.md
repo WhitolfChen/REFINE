@@ -9,7 +9,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```
 @inproceedings{chen2025refine,
   title={{REFINE}: Inversion-Free Backdoor Defense via Model Reprogramming},
-  author={Yukun Chen and Shuo Shao and Enhao Huang and Yiming Li and Pin-Yu Chen and Zhan Qin and Kui Ren},
+  author={Chen, Yukun and Shao, Shuo and Huang, Enhao and Li, Yiming and Chen, Pin-Yu and Qin, Zhan and Ren, Kui},
   booktitle={The Thirteenth International Conference on Learning Representations},
   year={2025}
 }
