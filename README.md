@@ -1,8 +1,8 @@
 # REFINE
 
-This is the official implementation of our paper REFINE: Inversion-Free Backdoor Defense via Model Reprogramming, accepted by ICLR 2025.
+This is the official implementation of our paper [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://openreview.net/pdf?id=4IYdCws9fc), accepted by ICLR 2025.
 
-# Citation
+## Citation
 
 If you find our work useful for your research, please consider citing our paper:
 
