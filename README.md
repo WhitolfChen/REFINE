@@ -28,7 +28,7 @@ Download the pre-processed dataset `CIFAR10.tar.gz` from [link](https://drive.go
 
 #### 1. Train Backdoored Models
 
-To train a backdoored model on CIFAR10 for BadNets attack:
+Train a backdoored model on CIFAR10 for BadNets attack:
 ```
 python attack.py --dataset CIFAR10 --attack BadNets
 ```
@@ -37,17 +37,17 @@ The results of attack can be found in folder `attack`.
 
 #### 2. Utilize REFINE for Defense
 
-To defend a backdoored model on CIFAR10 for BadNets attack:
+Defend a backdoored model on CIFAR10 for BadNets attack:
 ```
 python refine.py --dataset CIFAR10 --attack BadNets
 ```
 The results of defense can be found in folder `refine_res`.
 
-### Acknowledgments
+## Acknowledgments
 
 Our code is built upon [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox). We also integrate REFINE into BackdoorBox for easy access and usage.
 
-### Citation
+## Citation
 
 If you find our work useful for your research, please consider citing our paper:
 
