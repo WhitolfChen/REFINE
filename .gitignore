@@ -5,4 +5,4 @@ refine_res/
 attack/*
 !attack/triggers/
 
-data/CIFAR10/*
+data/*
